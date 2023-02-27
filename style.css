@@ -1,0 +1,15 @@
+body {margin:0}
+
+.sideimg {
+    width:auto;
+    min-height:110vh;
+    height:100vh
+}
+
+
+.Form {
+    text-align: center;
+    float: right;
+    padding-right: 25%;
+    padding-top:15%
+}
